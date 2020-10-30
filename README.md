@@ -1,11 +1,12 @@
 <!-- Reference -->
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- I found this article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](header-modified.gif "Header")](http://raajkhan.com/)
 
-# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+# I'm Meher Ullah Khan Raj!
 
-My name is Meher Ullah Khan Raj and I'm a software developer/Server expert. I'm from  [Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).
+And I'm a software developer/Server expert. I'm from  [Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).
  Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
  
  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
@@ -36,8 +37,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-khan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raj's GitHub Stats" />
 </a>
    
-
-<!-- links to social media icons -->
 
 <!-- icons with padding -->
 
