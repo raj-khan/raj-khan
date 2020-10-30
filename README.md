@@ -6,8 +6,7 @@
 <!-- # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 # I'm Meher Ullah Khan Raj!
 
-And I'm a software developer/Server expert. I'm from  [Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).
- Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
+And I'm a software developer/Server expert. Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
  
  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
