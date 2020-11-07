@@ -4,9 +4,8 @@
 <!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
 # Assalamu Alaykum,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-# I'm Meher Ullah Khan Raj!
 
-And I'm a software developer/Server expert. Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
+I'm Meher Ullah Khan Raj! and I'm a Senior Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
  
  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
