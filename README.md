@@ -3,7 +3,8 @@
 
 <!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
-# Assalamu Alaykum,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Meher Ullah Khan Raj!
+# Assalamu Alaykum,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# I'm Meher Ullah Khan Raj!
 
 And I'm a software developer/Server expert. Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
  
