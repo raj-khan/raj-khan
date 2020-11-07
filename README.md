@@ -1,10 +1,9 @@
 <!-- Reference -->
 <!-- I found this article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](header-modified.gif "Header")](http://raajkhan.com/)
+<!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
-<!-- # Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-# I'm Meher Ullah Khan Raj!
+# Assalamu Alaykum,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Meher Ullah Khan Raj!
 
 And I'm a software developer/Server expert. Currently, I am working for [Nex Software Solution](https://www.facebook.com/nexsoftwaresolution/) as a Full-Stack Software Developer and living in Dhanmondi, Dhaka.
  
@@ -54,6 +53,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [1]: https://twitter.com/_raajkhan/
 [2]: https://github.com/raj-khan
 [3]: https://www.linkedin.com/in/raajkhan/
+
+
+<h3 align="center"> ✨ Thanks  for visiting my Github Profile ✨ </h3>
+
+</br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/raj-khan/count.svg" />
+</p>
 
 
 <!-- Resources -->
