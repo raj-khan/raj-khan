@@ -54,9 +54,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2]: https://github.com/raj-khan
 [3]: https://www.linkedin.com/in/raajkhan/
 
-
-<h3 align="center"> ✨ Thanks  for visiting my Github Profile ✨ </h3>
-
 </br>
 <p align="center"> 
   Visitor count<br>
