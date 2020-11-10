@@ -54,11 +54,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2]: https://github.com/raj-khan
 [3]: https://www.linkedin.com/in/raajkhan/
 
-</br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/raj-khan/count.svg" />
-</p>
+
 
 
 <!-- Resources -->
