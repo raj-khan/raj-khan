@@ -5,7 +5,7 @@
 
 # Assalamu Alaykum,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I'm Meher Ullah Khan Raj! and I'm a Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Senior Software Developer and living in Dhanmondi, Dhaka.
+I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Senior Software Developer and living in Dhanmondi, Dhaka.
  
  You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
