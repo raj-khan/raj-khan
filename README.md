@@ -11,7 +11,7 @@ I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently,
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [raajkhan.com](http://raajkhan.com/) as well as on [Medium](https://medium.com/@rajkhan.co).
+Apart from coding, I also maintain a blog - you can find my articles on [medium.com/@rajkhan.co](https://medium.com/@rajkhan.co).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
