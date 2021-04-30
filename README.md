@@ -3,7 +3,7 @@
 
 <!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
-Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Senior Software Developer and living in Dhanmondi, Dhaka.
+Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Software Developer and living in Dhanmondi, Dhaka.
  
  You can find me on [![LinkedIn][3.2]][3].
 
