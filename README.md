@@ -29,8 +29,12 @@ Apart from coding, I also maintain a blog - you can find my articles on [rajkhaa
 <a href="https://rajkhaan.medium.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-khan&hide=TypeScript,html,SCSS,Hack,Less&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://raj-khan.github.io/">
+<!--<a href="https://raj-khan.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-khan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raj's GitHub Stats" />
+</a> -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-khan&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Meher Ullah Khan Raj's's Most Used GitHub Languages" />
 </a>
    
 
