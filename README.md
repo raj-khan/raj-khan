@@ -3,12 +3,12 @@
 
 <!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
-Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for [SCT - Technology GmbH](https://sct-technology.com/) as a Software Developer and living in Dhanmondi, Dhaka.
+Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for SCT - Technology GmbH as a Software Developer and living in Dhaka, Bangladesh.
  
-## 🔗 Also you can find me on:-
+<!--## 🔗 Also you can find me on:-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://raajkhan.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajkhan/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_raajkhan)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_raajkhan)-->
 
   
 
@@ -16,7 +16,7 @@ Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Curren
 
 Apart from coding, I also maintain a blog - you can find my articles on [rajkhaan.medium.com](https://rajkhaan.medium.com/).
 
-## 🔧 Technologies & Tools
+<!--## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=Jetbrains&logoColor=white&color=2bbc8a)
@@ -27,7 +27,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [rajkhaa
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
 
 ## &#x1f4c8; GitHub Stats
 
