@@ -5,8 +5,6 @@
 
 Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Currently, I am working for SCT - Technology GmbH as a Software Developer and living in Dhaka, Bangladesh.
 
-![alt text](https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bangladesh_180-animated-flag-gifs.gif)
-
  
 <!--## 🔗 Also you can find me on:-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://raajkhan.com/)
@@ -18,6 +16,8 @@ Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Curren
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on [rajkhaan.medium.com](https://rajkhaan.medium.com/).
+
+![alt text](https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bangladesh_180-animated-flag-gifs.gif)
 
 <!--## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
