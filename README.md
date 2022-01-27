@@ -13,7 +13,7 @@ Hi, I'm Meher Ullah Khan Raj, and I'm a Software Developer/Server expert. Curren
 
   
 
-## &#x270d; Blog & Writing
+<!--## ## &#x270d; Blog & Writing-->
 
 Apart from coding, I also maintain a blog - you can find my articles on [rajkhaan.medium.com](https://rajkhaan.medium.com/).
 
