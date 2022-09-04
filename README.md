@@ -3,7 +3,7 @@
 
 <!-- [![Header](header-modified.gif "Header")](http://raajkhan.com/) -->
 
-Hi, I'm Meher Ullah Khan Raj, and I'm a Software Engineer. Currently, I am working for [Snappymob Sdn. Bhd.](https://www.snappymob.com/about). as a Software Engineer and living in Dhaka, Bangladesh.
+Hi, I'm Meher Ullah Khan Raj, and I'm a Software Engineer. Currently, I am working for @Snappymob. as a Software Engineer and living in Dhaka, Bangladesh.
 
  
 <!--## 🔗 Also you can find me on:-
