@@ -7,7 +7,7 @@ Hi, I'm Meher Ullah Khan Raj, and I'm a Software Engineer from Bangladesh. Curre
 
  
 🔗 Also you can find me on:-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://raajkhan.com/)
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://raajkhan.com/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajkhan/)
 
   
