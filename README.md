@@ -15,10 +15,10 @@ Hi, I'm Meher Ullah Khan Raj, and I'm a Software Engineer from Bangladesh. Curre
  &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on [rajkhaan.medium.com](https://rajkhaan.medium.com/).
-
+<!--##
 ![alt text](https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bangladesh_180-animated-flag-gifs.gif)
 
-<!--## 🔧 Technologies & Tools
+ 🔧 Technologies & Tools
 Gy9q!Z7d2pLv@TS
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
