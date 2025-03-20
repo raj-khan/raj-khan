@@ -6,9 +6,9 @@
 Hi, I'm Meher Ullah Khan Raj, and I'm a Software Engineer from Bangladesh. Currently, I work for [Snappymob](https://www.snappymob.com/about) as a Software Engineer living in Kuala Lumpur, Malaysia.
 
  
-🔗 Also you can find me on:-
+🔗 Also you can find me on:- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajkhan/)
+
 <!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://raajkhan.com/) -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajkhan/)
 
   
 
