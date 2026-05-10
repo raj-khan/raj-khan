@@ -14,7 +14,7 @@ Building SaaS tools, developer workflow automation, and open-source projects.
 ### SaaS Products
 
 **[SEO Ranks Lab](https://seorankslab.com)**
-Google Search Console-powered weekly SEO task board. Syncs GSC data, scores opportunities deterministically, and surfaces prioritised actions — no AI required.
+Google Search Console-powered weekly SEO task board. Syncs GSC data, scores opportunities deterministically, and surfaces prioritised actions, no AI required.
 `Next.js` `Supabase` `TypeScript`
 
 **[e2Spec](https://e2spec.com)**
@@ -26,11 +26,11 @@ Estimate-to-spec platform. Turns project estimates into structured specification
 ### Developer Tools
 
 **[agent-anatomy/agent](https://github.com/agent-anatomy/agent)**
-Write your coding-agent instructions once. Syncs to Claude, Cursor, Codex, Copilot, Windsurf, Gemini — all from a single source file.
-`Developer tooling` `AI agents` `Open source`
+Write your coding-agent instructions once. Syncs to Claude, Cursor, Codex, Copilot, Windsurf, and Gemini, all from a single source file.
+`Developer tooling` `AI agents` `Open source.`
 
 **[aiagentflow](https://github.com/aiagentflow/aiagentflow)**
-Local-first, CLI-driven multi-agent AI workflow orchestrator. Feed it a spec or PRD and it generates implementation plans and code across agents.
+Local-first, CLI-driven multi-agent AI workflow orchestrator. Feed it a spec or PRD, and it generates implementation plans and code across agents.
 `CLI` `AI agents` `Open source`
 
 ---
