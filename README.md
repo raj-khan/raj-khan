@@ -11,8 +11,6 @@ Building SaaS tools, developer workflow automation, and open-source projects.
 
 ## Projects
 
-### AI Products
-
 **[SEO Ranks Lab](https://seorankslab.com)**
 Google Search Console-powered weekly SEO task board. Syncs GSC data, scores opportunities deterministically, and surfaces prioritised actions, no AI required.
 `Next.js` `Supabase` `TypeScript`
