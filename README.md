@@ -11,7 +11,7 @@ Building SaaS tools, developer workflow automation, and open-source projects.
 
 ## Projects
 
-### SaaS Products
+### AI Products
 
 **[SEO Ranks Lab](https://seorankslab.com)**
 Google Search Console-powered weekly SEO task board. Syncs GSC data, scores opportunities deterministically, and surfaces prioritised actions, no AI required.
@@ -25,13 +25,19 @@ Estimate-to-spec platform. Turns project estimates into structured specification
 
 ### Developer Tools
 
-**[agent-anatomy/agent](https://github.com/agent-anatomy/agent)**
-Write your coding-agent instructions once. Syncs to Claude, Cursor, Codex, Copilot, Windsurf, and Gemini, all from a single source file.
-`Developer tooling` `AI agents` `Open source.`
+
 
 **[aiagentflow](https://github.com/aiagentflow/aiagentflow)**
 Local-first, CLI-driven multi-agent AI workflow orchestrator. Feed it a spec or PRD, and it generates implementation plans and code across agents.
 `CLI` `AI agents` `Open source`
+
+**[agent-anatomy/agent](https://github.com/agent-anatomy/agent)**
+Write your coding-agent instructions once. Syncs to Claude, Cursor, Codex, Copilot, Windsurf, and Gemini, all from a single source file.
+`Developer tooling` `AI agents` `Open source.`
+
+**[agent-anatomy/ai-visibility-handbook](https://github.com/agent-anatomy/ai-visibility-handbook)**
+A practical framework for SEO, AI search, and answer engine visibility.
+`AI Visibility` `AI agents` `Open source.`
 
 ---
 
