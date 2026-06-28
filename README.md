@@ -11,20 +11,6 @@ Building SaaS tools, developer workflow automation, and open-source projects.
 
 ## Projects
 
-**[SEO Ranks Lab](https://seorankslab.com)**
-Google Search Console-powered weekly SEO task board. Syncs GSC data, scores opportunities deterministically, and surfaces prioritised actions, no AI required.
-`Next.js` `Supabase` `TypeScript`
-
-**[e2Spec](https://e2spec.com)**
-Estimate-to-spec platform. Turns project estimates into structured specifications.
-`SaaS` `Full-stack`
-
----
-
-### Developer Tools
-
-
-
 **[aiagentflow](https://github.com/aiagentflow/aiagentflow)**
 Local-first, CLI-driven multi-agent AI workflow orchestrator. Feed it a spec or PRD, and it generates implementation plans and code across agents.
 `CLI` `AI agents` `Open source`
@@ -44,14 +30,6 @@ A practical framework for SEO, AI search, and answer engine visibility.
 **[nextjs-supabase-saas-boilerplate](https://github.com/raj-khan/nextjs-supabase-saas-boilerplate)**
 Production-ready GitHub template for Next.js + Supabase SaaS projects. Includes working auth, RLS scaffold, CI pipeline, and coding-agent config for all major AI tools.
 `Next.js 15` `Supabase` `TypeScript` `Template`
-
----
-
-### For Family
-
-**[pre-school-keyboard](https://github.com/raj-khan/pre-school-keyboard)**
-A keyboard app built for my kid. Press a key, see something fun.
-`React` `Kids`
 
 ---
 
