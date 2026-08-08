@@ -23,6 +23,22 @@ Write your coding-agent instructions once. Syncs to Claude, Cursor, Codex, Copil
 A practical framework for SEO, AI search, and answer engine visibility.
 `AI Visibility` `AI agents` `Open source.`
 
+**[github.com/aiagentflow/aiscribe](https://github.com/aiagentflow/aiscribe)**
+Your AI's scribe. Every session, recorded.
+`AI Visibility` `AI agents` `Open source.`
+
+**[openlookup.io](https://openlookup.io/)**
+OpenLookup is one API to verify email, phone, IP, and domain.
+
+
+**[seorankslab.com](https://www.seorankslab.com/)**
+Turn Google Search Console into SEO tasks.
+
+**[markdowntopdf.sh](https://smartmd.vercel.app/)**
+Markdown → PDF tool so anyone can turn plain text into a polished document, and it's free, open source, no sign-up required.
+
+
+
 ---
 
 ### Templates & Boilerplates
