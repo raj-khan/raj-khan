@@ -39,7 +39,7 @@ Markdown → PDF tool so anyone can turn plain text into a polished document, an
 
 
 **[quickmemorial.com](https://www.quickmemorial.com/)**
-Create a Free Online Memorial Page
+Create a Free Online Memorial Page, no account needed. Add photos, share their story, and send one simple memorial link to family and friends in minutes
 
 
 
