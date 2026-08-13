@@ -9,7 +9,7 @@ Building SaaS tools, developer workflow automation, and open-source projects.
 
 ---
 
-## Projects
+## Open Source
 
 **[aiagentflow](https://github.com/aiagentflow/aiagentflow)**
 Local-first, CLI-driven multi-agent AI workflow orchestrator. Feed it a spec or PRD, and it generates implementation plans and code across agents.
